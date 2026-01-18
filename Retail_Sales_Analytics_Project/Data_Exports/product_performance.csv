@@ -1,0 +1,4 @@
+category,product_name,total_orders,return_count,return_rate_pct
+"Office Supplies","Sanford Pens, Easy-Erase",4,1,25.00
+"Office Supplies","Ibico Index Tab, Clear",4,1,25.00
+"Office Supplies",Staples,4,0,0.00

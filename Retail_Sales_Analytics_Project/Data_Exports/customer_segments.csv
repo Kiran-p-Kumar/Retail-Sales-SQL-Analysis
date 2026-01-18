@@ -1,0 +1,255 @@
+customer_name,R,F,M,Customer_Segment
+"Ken Lonsdale",2,5,5,"At Risk"
+"Maria Etezadi",5,4,5,Champions
+"Paul Stevenson",3,3,5,"Loyal Customers"
+"Erin Smith",2,1,5,"Lost Customers"
+"Hunter Lopez",3,5,5,"Loyal Customers"
+"Elpida Rittenbach",5,4,5,Champions
+"Dorothy Dickinson",2,5,5,"At Risk"
+"Chris Selesnick",1,5,5,"At Risk"
+"Roy Phan",4,4,5,Champions
+"Christopher Conant",2,1,5,"Lost Customers"
+"Luke Schmidt",2,2,5,"Lost Customers"
+"Katrina Bavinger",1,1,5,"Lost Customers"
+"Liz Thompson",1,5,5,"At Risk"
+"Sharelle Roach",4,3,5,"Loyal Customers"
+"Maribeth Schnelling",5,4,5,Champions
+"Darren Powers",5,4,5,Champions
+"David Flashing",4,4,5,Champions
+"Tom Prescott",1,1,5,"Lost Customers"
+"Don Jones",4,3,5,"Loyal Customers"
+"Larry Tron",3,3,5,"Loyal Customers"
+"Alan Shonely",3,2,5,"Potential Loyalist"
+"Aleksandra Gannaway",4,3,5,"Loyal Customers"
+"Sanjit Jacobs",5,4,5,Champions
+"Jocasta Rupert",3,5,5,"Loyal Customers"
+"Bryan Davis",2,2,5,"Lost Customers"
+"Bart Pistole",1,5,5,"At Risk"
+"Jill Matthias",2,5,5,"At Risk"
+"Shirley Daniels",3,5,5,"Loyal Customers"
+"Michelle Arnett",4,3,5,"Loyal Customers"
+"Dave Poirier",5,4,5,Champions
+"John Huston",1,1,5,"Lost Customers"
+"Thomas Seio",4,4,5,Champions
+"Ed Braxton",2,5,5,"At Risk"
+"Resi PÃ¶lking",2,5,5,"At Risk"
+"Michelle Ellison",1,5,5,"At Risk"
+"Philip Fox",5,4,5,Champions
+"Eric Murdock",1,5,5,"At Risk"
+"Roger Demir",4,3,5,"Loyal Customers"
+"Muhammed MacIntyre",1,5,5,"At Risk"
+"Frank Olsen",1,5,5,"At Risk"
+"Jennifer Patt",1,1,5,"Lost Customers"
+"Steve Carroll",5,4,5,Champions
+"Charles Sheldon",4,3,5,"Loyal Customers"
+"Ann Blume",3,5,5,"Loyal Customers"
+"Evan Henry",2,1,5,"Lost Customers"
+"Lindsay Williams",5,5,5,Champions
+"Xylona Preis",3,3,5,"Loyal Customers"
+"Ken Heidel",2,2,5,"Lost Customers"
+"Kean Nguyen",3,5,5,"Loyal Customers"
+"Marc Harrigan",3,3,5,"Loyal Customers"
+"Sally Hughsby",3,5,4,"Loyal Customers"
+"Carol Adams",1,5,4,"At Risk"
+"Hallie Redmond",1,1,4,"Lost Customers"
+"Craig Leslie",4,3,4,"Loyal Customers"
+"Ellis Ballard",2,1,4,"Lost Customers"
+"Anna HÃ¤berlin",1,1,4,"Lost Customers"
+"Christine Phan",3,2,4,"Potential Loyalist"
+"Allen Rosenblatt",3,2,4,"Potential Loyalist"
+"Philisse Overcash",1,1,4,"Lost Customers"
+"David Kendrick",2,5,4,"At Risk"
+"Larry Blacks",5,5,4,Champions
+"Michael Paige",3,5,4,"Loyal Customers"
+"Natalie DeCherney",4,3,4,"Loyal Customers"
+"Edward Hooks",4,3,4,"Loyal Customers"
+"Daniel Raglin",1,1,4,"Lost Customers"
+"Bradley Drucker",2,5,4,"At Risk"
+"Stewart Visinsky",5,5,4,Champions
+"Ryan Crowe",3,3,4,"Loyal Customers"
+"Dave Hallsten",2,2,4,"Lost Customers"
+"Jay Fein",3,2,4,"Potential Loyalist"
+"Giulietta Dortch",2,1,4,"Lost Customers"
+"Patrick O'Donnell",2,5,4,"At Risk"
+"Nat Gilpin",1,5,4,"At Risk"
+"Patrick Gardner",4,3,4,"Loyal Customers"
+"Nat Carroll",3,2,4,"Potential Loyalist"
+"Christopher Martinez",5,4,4,Champions
+"Laurel Beltran",1,1,4,"Lost Customers"
+"Toby Braunhardt",1,5,4,"At Risk"
+"Kelly Williams",1,5,4,"At Risk"
+"Ed Jacobs",2,2,4,"Lost Customers"
+"Shui Tom",1,1,4,"Lost Customers"
+"Toby Gnade",1,1,4,"Lost Customers"
+"Maya Herman",5,4,4,Champions
+"Toby Swindell",4,3,4,"Loyal Customers"
+"Suzanne McNair",4,3,4,"Loyal Customers"
+"Susan MacKendrick",2,1,4,"Lost Customers"
+"Brian Dahlen",4,5,4,Champions
+"Alejandro Grove",5,4,4,Champions
+"Duane Benoit",1,1,4,"Lost Customers"
+"Anna Andreadi",3,2,4,"Potential Loyalist"
+"Bruce Degenhardt",4,3,4,"Loyal Customers"
+"Patrick O'Brill",2,5,4,"At Risk"
+"Heather Kirkland",3,2,4,"Potential Loyalist"
+"Pauline Webber",3,5,4,"Loyal Customers"
+"Quincy Jones",1,1,4,"Lost Customers"
+"Steve Nguyen",1,5,4,"At Risk"
+"Shahid Hopkins",5,4,4,Champions
+"Neil Ducich",1,1,4,"Lost Customers"
+"Troy Staebel",2,2,4,"Lost Customers"
+"Magdelene Morse",5,5,4,Champions
+"Michael Granlund",1,5,4,"At Risk"
+"Tiffany House",5,4,3,Champions
+"Delfina Latchford",1,5,3,"At Risk"
+"Shirley Jackson",3,2,3,"Potential Loyalist"
+"Liz Carlisle",2,2,3,"Lost Customers"
+"Anthony Garverick",4,4,3,Champions
+"Phillina Ober",5,4,3,Champions
+"Joseph Holt",5,5,3,Champions
+"Scott Williamson",2,1,3,"Lost Customers"
+"David Philippe",2,2,3,"Lost Customers"
+"Greg Matthias",4,3,3,"Loyal Customers"
+"Yoseph Carroll",1,1,3,"Lost Customers"
+"Claudia Bergmann",3,3,3,"Loyal Customers"
+"Ross Baird",4,3,3,"Loyal Customers"
+"Beth Thompson",5,5,3,Champions
+"Carl Ludwig",3,3,3,"Loyal Customers"
+"Jasper Cacioppo",1,5,3,"At Risk"
+"Chad McGuire",1,1,3,"Lost Customers"
+"Bradley Talbott",3,2,3,"Potential Loyalist"
+"Natalie Fritzler",1,1,3,"Lost Customers"
+"Mick Brown",4,5,3,Champions
+"Paul Lucas",1,1,3,"Lost Customers"
+"Mike Vittorini",2,2,3,"Lost Customers"
+"Tom Stivers",2,1,3,"Lost Customers"
+"Ryan Akin",3,2,3,"Potential Loyalist"
+"Sample Company A",5,4,3,Champions
+"Deborah Brumfield",1,5,3,"At Risk"
+"Clay Ludtke",1,1,3,"Lost Customers"
+"Greg Guthrie",5,4,3,Champions
+"Guy Armstrong",1,1,3,"Lost Customers"
+"Jas O'Carroll",5,5,3,Champions
+"Mick Crebagga",4,3,3,"Loyal Customers"
+"Ben Wallace",4,3,3,"Loyal Customers"
+"Harry Marie",5,4,3,Champions
+"Eric Barreto",2,1,3,"Lost Customers"
+"Alejandro Ballentine",4,3,3,"Loyal Customers"
+"Matt Abelman",4,3,3,"Loyal Customers"
+"Dennis Pardue",5,4,3,Champions
+"Michael Moore",3,5,3,"Loyal Customers"
+"Dan Lawera",5,4,3,Champions
+"Lisa DeCherney",1,1,3,"Lost Customers"
+"Natalie Webber",1,1,3,"Lost Customers"
+"Muhammed Yedwab",4,3,3,"Loyal Customers"
+"Aimee Bixby",3,2,3,"Potential Loyalist"
+"Hunter Glantz",3,2,3,"Potential Loyalist"
+"Shaun Weien",1,5,3,"At Risk"
+"Sarah Foster",2,2,3,"Lost Customers"
+"Stephanie Phelps",2,2,3,"Lost Customers"
+"Harold Engle",2,2,3,"Lost Customers"
+"Gene Hale",2,2,3,"Lost Customers"
+"Edward Becker",1,1,3,"Lost Customers"
+"Chuck Sachs",4,4,3,Champions
+"Filia McAdams",3,2,2,"Potential Loyalist"
+"Gary Hwang",3,2,2,"Potential Loyalist"
+"Erica Hackney",4,3,2,"Loyal Customers"
+"Russell Applegate",5,4,2,Champions
+"Neola Schneider",3,2,2,"Potential Loyalist"
+"Christina Anderson",3,2,2,"Potential Loyalist"
+"Dianna Vittorini",4,4,2,Champions
+"Irene Maddox",4,3,2,"Loyal Customers"
+"Arthur Prichep",5,4,2,Champions
+"Toby Ritter",4,3,2,"Loyal Customers"
+"Erica Hernandez",1,1,2,"Lost Customers"
+"Chris McAfee",5,4,2,Champions
+"Sanjit Chand",1,1,2,"Lost Customers"
+"Paul MacIntyre",5,4,2,Champions
+"Robert Dilbeck",5,4,2,Champions
+"Meg O'Connel",1,1,2,"Lost Customers"
+"Tom Boeckenhauer",2,5,2,"At Risk"
+"Cyma Kinney",1,1,2,"Lost Customers"
+"Damala Kotsonis",2,2,2,"Lost Customers"
+"Tanja Norvell",5,4,2,Champions
+"Arthur Wiediger",5,4,2,Champions
+"Brendan Dodson",2,2,2,"Lost Customers"
+"Lena Creighton",3,2,2,"Potential Loyalist"
+"Michael Dominguez",4,3,2,"Loyal Customers"
+"Ted Butterfield",4,3,2,"Loyal Customers"
+"Roy Collins",5,4,2,Champions
+"Brad Thomas",2,5,2,"At Risk"
+"Luke Weiss",3,2,2,"Potential Loyalist"
+"Jason Klamczynski",3,3,2,"Loyal Customers"
+"Nathan Mautz",1,5,2,"At Risk"
+"Toby Carlisle",1,1,2,"Lost Customers"
+"Liz Pelletier",3,2,2,"Potential Loyalist"
+"Max Ludwig",2,1,2,"Lost Customers"
+"Alyssa Crouse",5,4,2,Champions
+"Brosina Hoffman",5,4,2,Champions
+"Anthony Witt",2,1,2,"Lost Customers"
+"Vivek Sundaresam",5,4,2,Champions
+"Dennis Bolton",3,2,2,"Potential Loyalist"
+"Jack Garza",5,4,2,Champions
+"Ralph Ritter",2,2,2,"Lost Customers"
+"Brendan Murry",3,3,2,"Loyal Customers"
+"Todd Sumrall",3,2,2,"Potential Loyalist"
+"Ionia McGrath",2,5,2,"At Risk"
+"Shaun Chance",4,4,2,Champions
+"Sung Shariari",3,3,2,"Loyal Customers"
+"Annie Thurman",5,5,2,Champions
+"David Wiener",4,3,2,"Loyal Customers"
+"Brendan Sweed",4,3,2,"Loyal Customers"
+"Darrin Van Huff",3,3,2,"Loyal Customers"
+"Randy Bradley",4,3,2,"Loyal Customers"
+"Chuck Clark",3,2,2,"Potential Loyalist"
+"Darren Koutras",4,3,1,"Loyal Customers"
+"Anthony Jacobs",4,4,1,Champions
+"Eugene Moren",5,5,1,Champions
+"Lori Olson",2,2,1,"Lost Customers"
+"Nona Balk",2,2,1,"Lost Customers"
+"Grant Thornton",5,4,1,Champions
+"Corey Roper",3,2,1,"Potential Loyalist"
+"Greg Hansen",3,2,1,"Potential Loyalist"
+"Melanie Seite",5,4,1,Champions
+"Mark Van Huff",3,3,1,"Loyal Customers"
+"Vivek Gonzalez",4,3,1,"Loyal Customers"
+"Vivian Mathis",4,3,1,"Loyal Customers"
+"Charles McCrossin",2,2,1,"Lost Customers"
+"Barry Weirich",3,2,1,"Potential Loyalist"
+"Duane Noonan",2,1,1,"Lost Customers"
+"Peter BÃ¼hler",4,4,1,Champions
+"George Bell",1,1,1,"Lost Customers"
+"Stuart Calhoun",4,3,1,"Loyal Customers"
+"Khloe Miller",5,4,1,Champions
+"Julia Barnett",1,1,1,"Lost Customers"
+"Theresa Swint",2,1,1,"Lost Customers"
+"Herbert Flentye",2,2,1,"Lost Customers"
+"Joni Sundaresam",3,2,1,"Potential Loyalist"
+"Grace Kelly",5,4,1,Champions
+"Helen Andreada",1,1,1,"Lost Customers"
+"Richard Bierner",4,3,1,"Loyal Customers"
+"James Lanier",4,3,1,"Loyal Customers"
+"Dean Braden",2,1,1,"Lost Customers"
+"Sung Pak",1,1,1,"Lost Customers"
+"Ruben Dartt",4,3,1,"Loyal Customers"
+"Tamara Willingham",4,3,1,"Loyal Customers"
+"Lycoris Saunders",5,4,1,Champions
+"Sue Ann Reed",3,2,1,"Potential Loyalist"
+"Adam Bellavance",5,4,1,Champions
+"Mark Haberlin",2,1,1,"Lost Customers"
+"Ricardo Sperren",5,4,1,Champions
+"Michael Kennedy",4,3,1,"Loyal Customers"
+"Cari Sayre",4,3,1,"Loyal Customers"
+"Janet Martin",3,2,1,"Potential Loyalist"
+"Beth Paige",4,3,1,"Loyal Customers"
+"Jack O'Briant",5,4,1,Champions
+"Cynthia Delaney",2,1,1,"Lost Customers"
+"Mitch Webber",3,2,1,"Potential Loyalist"
+"Seth Vernon",4,4,1,Champions
+"Arthur Gainer",2,2,1,"Lost Customers"
+"Ann Steele",2,1,1,"Lost Customers"
+"Speros Goranitis",3,2,1,"Potential Loyalist"
+"Joe Elijah",5,4,1,Champions
+"Joy Smith",5,4,1,Champions
+"Mary O'Rourke",1,1,1,"Lost Customers"
+"Justin MacKendrick",2,1,1,"Lost Customers"
