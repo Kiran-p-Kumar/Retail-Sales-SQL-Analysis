@@ -1,5 +1,4 @@
 # Retail Sales & Customer Segmentation Analytics
-### BSc Data Science - Final Portfolio Project
 
 ## 📌 Project Overview
 This project demonstrates a full data analytics pipeline: from cleaning raw "dirty" data in **MySQL** to performing advanced **RFM (Recency, Frequency, Monetary)** segmentation and creating an interactive executive dashboard in **Power BI**.
